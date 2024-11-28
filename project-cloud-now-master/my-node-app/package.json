@@ -1,0 +1,17 @@
+{
+  "name": "project-cloud-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "moment-timezone": "^0.5.46",
+    "node-fetch": "^3.3.2"
+  }
+}
